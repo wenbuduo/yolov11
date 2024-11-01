@@ -1,0 +1,7 @@
+path: ../datasets/nihao
+train: train/nihao
+val:  val/nihao
+name: 
+  0: person
+  1: cat
+  2: dog
